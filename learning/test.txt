@@ -6,3 +6,5 @@ I want to add more for test.
 3.TEST
 
 4. More testing about Git Status
+
+5. Testing for git stage
