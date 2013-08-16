@@ -8,3 +8,5 @@ I want to add more for test.
 4. More testing about Git Status
 
 5. Testing for git stage
+
+6. testing for the commit
