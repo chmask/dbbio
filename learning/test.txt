@@ -1,3 +1,6 @@
 I'm testing git without any other purpose.
 Good job!
 I want to add more for test.
+
+I want to add more for test.
+3.TEST
