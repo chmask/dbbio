@@ -17,3 +17,6 @@ I want to add more for test.
 9. Create branch is very quick and easy
 
 10. Branch Managed
+
+11. test Stash
+
