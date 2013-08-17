@@ -10,3 +10,5 @@ I want to add more for test.
 5. Testing for git stage
 
 6. testing for the commit
+
+7. with Dev Branch
