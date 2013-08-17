@@ -15,3 +15,5 @@ I want to add more for test.
 
 8. any conflict? how to do with it?
 9. Create branch is very quick and easy
+
+10. Branch Managed
