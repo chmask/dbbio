@@ -12,3 +12,5 @@ I want to add more for test.
 6. testing for the commit
 
 7. with Dev Branch
+
+8. Create branch is very quick and easy
