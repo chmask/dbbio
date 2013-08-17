@@ -13,4 +13,8 @@ I want to add more for test.
 
 7. with Dev Branch
 
+<<<<<<< HEAD
 8. any conflict? how to do with it?
+=======
+8. Create branch is very quick and easy
+>>>>>>> feature1
